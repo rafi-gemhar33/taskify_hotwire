@@ -1,24 +1,8 @@
-# README
+# A Simple To-Do List Using 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Ruby on Rails 
+- **Hotwire**
+- **Stimulus**
+- **Tailwind**
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Screenshot 2022-10-28 at 22 14 39](https://user-images.githubusercontent.com/47052156/198689655-4f16aaa7-7702-4ae4-9d2b-0fe6ccf42f14.png)
